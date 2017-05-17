@@ -1,1 +1,1 @@
-# PureMath86-github.io
+# PureMath86.github.io
